@@ -1,3 +1,4 @@
+// morp
 function setup() {
   createCanvas(500, 500);
     noLoop();
@@ -11,7 +12,6 @@ function draw() {
     stroke(253, 246, 235);
     
     
-    //colours
     
   var colourArray = 
       [//yellow
