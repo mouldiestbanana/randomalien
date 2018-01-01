@@ -1,5 +1,2 @@
 # randomalien
-Generates a random alien
-
-
-Hamsters are always hungry. 
+Generates a random alien.
